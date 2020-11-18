@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="18NovAssignment.xsl"?>
+<library>
+        <book>
+            <dept>IT</dept>        
+            <title>HTML &amp; CSS</title>
+            <author>Jon Duckett</author>
+            <isbn>9781118008188</isbn>
+            <status>Issued</status>
+        </book>
+        <book>
+            <dept>IT</dept>        
+            <title>Learn Python the Hard Way</title>
+            <author>Zed Shaw</author>
+            <isbn>9780134692883</isbn>
+            <status>Issued</status>
+        </book>
+        <book>
+            <dept>Business</dept>        
+            <title>Financial Management</title>
+            <author>C. Paramasivan and T. Subramanian</author>
+            <isbn>9789679581249</isbn>
+            <status>Available</status>
+        </book>
+        <book>
+            <dept>Tourism</dept>        
+            <title>Tourism principles, practices, and philosophies</title>
+            <author>Robert Woodrow McIntosh</author>
+            <isbn>9780470382141</isbn>
+            <status>Issued</status>
+        </book>
+        <book>
+            <dept>Languages</dept>        
+            <title>Berlin Alexanderplatz</title>
+            <author>Alfred Döblin</author>
+            <isbn>9783596904587</isbn>
+            <status>Available</status>
+        </book>
+</library>
